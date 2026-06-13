@@ -7,11 +7,10 @@ namespace Ejercicio04
         public App()
         {
             InitializeComponent();
+            //Inicializamos la NewPage1 como página de navegación y página principal o de inicio
+            MainPage = new NavigationPage(new NewPage1());
         }
 
-        protected override Window CreateWindow(IActivationState? activationState)
-        {
-            return new Window(new AppShell());
-        }
+         
     }
 }
