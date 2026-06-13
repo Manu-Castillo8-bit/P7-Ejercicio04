@@ -11,7 +11,7 @@
                 VerticalOptions="Center"
                 HorizontalOptions="Center" />
 
-                <Button Text="Ir a la página dos " VerticalOptions="Center" HorizontalOptions="Center" Clicked="Button_Clicked"/>
+                <Button Text="Ir a la página dos " VerticalOptions="Center" HorizontalOptions="Center" Clicked="Button_Clicked" />
                 
         </VerticalStackLayout>
  

@@ -56,6 +56,26 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[C:/Users/User/Desktop/Práctica 7/Ejercicio04/Ejercicio04/NewPage1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio04.NewPage1.xaml
+build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
+build_metadata.AdditionalFiles.RelativePath = NewPage1.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/User/Desktop/Práctica 7/Ejercicio04/Ejercicio04/PaginaDos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio04.PaginaDos.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginaDos.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginaDos.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/Users/User/Desktop/Práctica 7/Ejercicio04/Ejercicio04/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio04.Resources.Styles.Colors.xaml
