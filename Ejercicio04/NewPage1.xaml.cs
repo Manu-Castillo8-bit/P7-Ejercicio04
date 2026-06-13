@@ -1,15 +1,17 @@
 using System;
-namespace NewPage1;
 
-public partial class NewPage1 : ContentPage
+namespace NewPage1
 {
-    public NewPage1()
+    public partial class NewPage1 : ContentPage
     {
-        InitializeComponent();
-    }
+        public NewPage1()
+        {
+            InitializeComponent();
+        }
 
-    private void Button_Clicked(object sender, EventArgs e)
-    {
-        Navigation.PushAsync(new PaginaDos());
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new PaginaDos());
+        }
     }
 }
