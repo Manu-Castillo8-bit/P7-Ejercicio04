@@ -3,11 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.30\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio04\\ejercicio04\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio04\\ejercicio04\\paginados.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\paginados.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio04\\ejercicio04\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -16,6 +13,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio04\\ejercicio04\\paginados.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\paginados.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.30\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio04\\ejercicio04\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|Ejercicio04\\Ejercicio04.csproj|solutionrelative:ejercicio04\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,6 +50,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PaginaDos.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio04\\Ejercicio04\\PaginaDos.xaml",
+              "RelativeDocumentMoniker": "Ejercicio04\\PaginaDos.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio04\\Ejercicio04\\PaginaDos.xaml",
+              "RelativeToolTip": "Ejercicio04\\PaginaDos.xaml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-13T04:43:42.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Xamarin.Android.Aapt2.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.30\\tools\\Xamarin.Android.Aapt2.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.30\\tools\\Xamarin.Android.Aapt2.targets",
@@ -53,12 +70,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.30\\tools\\Xamarin.Android.Aapt2.targets",
               "ViewState": "AgIAAM8AAAAAAAAAAAArwPQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-06-13T04:24:25.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-13T04:24:25.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PaginaDos.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio04\\Ejercicio04\\PaginaDos.xaml.cs",
               "RelativeDocumentMoniker": "Ejercicio04\\PaginaDos.xaml.cs",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NewPage1.xaml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio04\\Ejercicio04\\NewPage1.xaml",
               "RelativeDocumentMoniker": "Ejercicio04\\NewPage1.xaml",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "NewPage1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio04\\Ejercicio04\\NewPage1.xaml.cs",
               "RelativeDocumentMoniker": "Ejercicio04\\NewPage1.xaml.cs",
