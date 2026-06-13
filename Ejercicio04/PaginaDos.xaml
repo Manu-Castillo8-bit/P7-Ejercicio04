@@ -10,7 +10,21 @@
                 Text="Welcome to .NET MAUI!"
                 VerticalOptions="Center"
                 HorizontalOptions="Center" />
-                
+
+                <BoxView
+
+                Color="CornflowerBlue"
+                CornerRadius="10"
+                WidthRequest="160"
+                HeightRequest="160"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                />
+
+                <Label    
+                Text="Tarea: Crea dos BoxView mas!"
+                VerticalOptions="Center"
+                HorizontalOptions="Center" />     
         </VerticalStackLayout>
  
 </ContentPage>
