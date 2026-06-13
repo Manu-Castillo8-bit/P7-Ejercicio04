@@ -13,6 +13,26 @@
 
                 <BoxView
 
+                Color="Green"
+                CornerRadius="10"
+                WidthRequest="160"
+                HeightRequest="160"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                />
+
+                <BoxView
+
+                Color="Yellow"
+                CornerRadius="10"
+                WidthRequest="160"
+                HeightRequest="160"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                />
+
+                <BoxView
+
                 Color="CornflowerBlue"
                 CornerRadius="10"
                 WidthRequest="160"
